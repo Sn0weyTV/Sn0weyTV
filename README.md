@@ -2,8 +2,10 @@
 
 I am Matthew Burling, people have a lot of nicknames for me: Matthew, Matty, Matt, Sn0wey. I am a computer science graduate from [The University of Hull](https://hull.ac.uk). I am a tech enthusiast as well as general gamer / twitch streamer / content creator. I always like to keep myself occupied and working with multiple types of technologies such as Lua, C#, SourcePawn and many more. I am always open to collab on any projects people have in mind. Find out more about me & feel free to connect with me here:
 
+[![Gmail Badge](https://img.shields.io/badge/-sn0weyttv@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sn0weyttv@gmail.com)](mailto:sn0weyttv@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-matthewburling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewburling/)](https://www.linkedin.com/in/matthewburling/)
 [![Twitch Badge](https://img.shields.io/twitch/status/sn0weytv?label=%20&logo=Twitch&style=flat-square&link=https://twitch.tv/sn0weytv)](https://www.twitch.tv/Sn0weyTV)
+[![Twitter Badge](https://img.shields.io/twitter/follow/sn0weytv?style=social)](https://twitter.com/intent/follow?screen_name=sn0weytv)
 [![Youtube Badge](https://img.shields.io/badge/-sn0wey-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJRbqmBxj695WWo7IRb39bw)](https://www.youtube.com/channel/UCJRbqmBxj695WWo7IRb39bw)
 
 ## ⚡ Technologies
