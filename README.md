@@ -4,7 +4,7 @@ I am Matthew Burling, people have a lot of nicknames for me: Matthew, Matty, Mat
 
 [![Linkedin Badge](https://img.shields.io/badge/-matthewburling-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthewburling/)](https://www.linkedin.com/in/matthewburling/)
 [![Twitch Badge](https://img.shields.io/twitch/status/sn0weytv?label=%20&logo=Twitch&style=flat-square&link=https://twitch.tv/sn0weytv)](https://www.twitch.tv/Sn0weyTV)
-[![Youtube Badge](https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/koolkanna)](https://www.youtube.com/c/koolkanna)
+[![Youtube Badge](https://img.shields.io/badge/-sn0wey-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCJRbqmBxj695WWo7IRb39bw)](https://www.youtube.com/channel/UCJRbqmBxj695WWo7IRb39bw)
 
 ## ⚡ Technologies
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
